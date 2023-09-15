@@ -1,0 +1,2 @@
+# YOSHI_clampcar
+クランプ機構装備のYOSHI号のKiCAD
